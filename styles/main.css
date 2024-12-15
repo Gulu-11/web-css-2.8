@@ -9,6 +9,7 @@ body {
     height: 2208px;
     margin: 64px auto;
     padding: 96px;
+    background-color: #FFAEAF;
 }
 #mainInfoDiv {
     box-sizing: border-box;
@@ -16,6 +17,7 @@ body {
     width: 100%;
     height: 2016px;
     padding: 96px 0 96px 0;
+    background-color: #FFFFFF;
 }
 #titleMainDiv {
     box-sizing: border-box;
